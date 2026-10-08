@@ -1,0 +1,6 @@
+{
+  "name": "Empati Köprüsü",
+  "description": "Okul ortamında psikolojik iyi oluşu, akran zorbalığıyla mücadeleyi ve empati iletişimini güçlendiren yapay zeka destekli rehberlik platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
